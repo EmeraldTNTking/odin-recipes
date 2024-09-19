@@ -1,0 +1,1 @@
+In this project, I had to research 3 recipes for food, and add certain details, i.e. picture, ingredients, steps, to my webpage. I had to link each recipe webpage to my index webpage. I used different header tags, both unordered and ordered lists, image tags, and hyperlink tags. I also organized my images and recipes into different directories.
