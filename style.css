@@ -1,0 +1,11 @@
+.title {
+    font-size: 36px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.recipe {
+    font-size: 18px;
+    background-color: lightcoral;
+    color: black;
+}
